@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
+:root {
+    /* define colors as variables to */
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -200,7 +204,7 @@ form .btn .btn-layer {
     background: -webkit-linear-gradient(right, #003366, #004080, #0059b3, #0073e6);
     border-radius: 15px;
     transition: all 0.4s ease;
-    ;
+
 }
 
 form .btn:hover .btn-layer {
